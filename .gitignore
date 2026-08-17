@@ -1,0 +1,31 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Environment Variables
+.env
+
+# Vector Stores & Data
+data/chroma_db/
+data/sample_docs/*
+!data/sample_docs/.gitkeep
+*.sqlite3
+
+# Logs & Testing
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+.ragas_cache/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
