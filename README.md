@@ -107,14 +107,6 @@ python3 -m src.evaluation.ragas_evaluator
 
 ---
 
-## 📚 Project Documentation & Interview Resources
-
-- 📅 [**PROJECT_TIMELINE.md**](file:///PROJECT_TIMELINE.md): 4-Month (16-Week) Professional Engineering Roadmap.
-- 🎓 [**INTERVIEW_PREP_GUIDE.md**](file:///INTERVIEW_PREP_GUIDE.md): Technical Architecture Breakdown & Mid-Level Positioning.
-- ❓ [**INTERVIEW_QA_BANK.md**](file:///INTERVIEW_QA_BANK.md): 15+ Resume & Technical Interview Questions and Answers.
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
