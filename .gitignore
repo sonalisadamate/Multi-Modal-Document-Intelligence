@@ -13,9 +13,8 @@ ENV/
 .env
 
 # Vector Stores & Data
-data/chroma_db/
-data/sample_docs/*
-!data/sample_docs/.gitkeep
+.agents/
+data/
 *.sqlite3
 
 # Logs & Testing
